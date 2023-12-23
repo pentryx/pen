@@ -1,0 +1,91 @@
+{
+  "title": "Calligraphy Klavuz Çizgileri",
+  "tabNames": {
+    "basic": "Basit ayarlar",
+    "custom": "Özelleştir",
+    "lines": "Çizgi ayarları",
+    "debug": "Hata ayıklama"
+  },
+  "buttonNames": {
+    "download": "indir",
+    "popout": "Pop Out",
+    "print": "yazdır"
+  },
+
+  "ascender": "üst alan",
+  "baseline": "yazı alanı (x)",
+  "descender": "alt alan",
+  "halfline": "ara çizgi",
+  "gap": "satır arası",
+  "guideline": "açı ayarı",
+  "midline": "Midline",
+  "x": "X",
+
+  "thickness": "Thickness",
+  "xheight": "X yüksekliği",
+  "ratios": "oranlar",
+
+  "color": "renk",
+  "colorNames": {
+    "black": "siyah",
+    "blue": "mavi",
+    "cyan": "turkuaz",
+    "darkgray": "koyu gri",
+    "gray": "Gri",
+    "graypct": "Gri {{pct}}%",
+    "green": "yeşil",
+    "lightgray": "açık gri",
+    "nonphotoblue": "mavi",
+    "pink": "pembe",
+    "red": "kırmızı",
+    "transparent": "renksiz",
+    "white": "beyaz",
+    "yellow": "sarı"
+  },
+
+  "dash": "Dash",
+  "dashNames": {
+    "none": "düz",
+    "1cm": "1cm",
+    "2cm": "2cm",
+    "42vary": "4cm / 2cm"
+  },
+
+  "presets": "Presets",
+  "custom": "Custom",
+  "simple": "Basic Penmanship",
+  "italic": "Italic 3:5:3 78°",
+  "copperplate": "Copperplate (Winters) 3:2:3 38°",
+  "spencerian": "Spencerian 2:1:2 52°",
+  "foundation": "Foundation 2:2:2",
+  "german": "German Kurrent 2:1:2",
+
+  "pagesize": "kağıt türü",
+  "a3": "A3",
+  "a4": "A4",
+  "a5": "A5",
+  "ledger": "US Ledger (11x17)",
+  "letter": "US Letter",
+  "legal": "US Legal",
+
+  "pageorientation": "kağıt yönü",
+  "landscape": "yatay",
+  "portrait": "dikey",
+
+  "gapcolor": "satır arası rengi",
+  "globalmargin": "kenar boşluğu",
+  "guideangle": "klavuz açısı",
+  "guidespacing": "klavuz aralığı",
+  "watermark": "Watermark",
+  "xmarker": "X işaretçisi",
+
+  "selectlanguage": "dil",
+  "languages": {
+    "de": "German",
+    "en": "English",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (US)",
+    "es": "Español"
+	"tr": "Türkiye"
+  }
+}
